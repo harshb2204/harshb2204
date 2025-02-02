@@ -48,11 +48,5 @@
 
 ---
 
-📊 **Stats & Contributions**
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2204&layout=compact&theme=radical)  
-
----
 
 
