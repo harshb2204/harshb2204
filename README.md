@@ -50,7 +50,7 @@
 
 📊 **Stats & Contributions**
 
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsh2204&show_icons=true&theme=radical)  
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harsh2204&layout=compact&theme=radical)  
 
 ---
