@@ -11,6 +11,7 @@
 💻 **Tech Stack**:
 
 ### **Languages**
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)  
@@ -33,14 +34,6 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
 ![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)  
 
----
-
-💡 **What I Love**:
-- **Data Structures & Algorithms**: I enjoy solving complex problems using efficient algorithms.
-- **Backend Development**: Passionate about building robust backend systems with Spring and Spring Boot.
-- **Mobile Development**: Creating smooth, cross-platform apps using Flutter and Firebase.
-
----
 
 📬 **Connect with Me**:
 - **LinkedIn**: [Harsh Badagandi](https://www.linkedin.com/in/harsh-badagandi/)  
