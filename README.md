@@ -68,13 +68,14 @@
 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harsh-badagandi&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harsh-badagandi&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=harshb2204&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshb2204&theme=tokyonight" alt="GitHub streak" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-badagandi&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshb2204&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
+
 
 ---
 
