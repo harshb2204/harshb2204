@@ -5,9 +5,7 @@
 
 # Hi there, I'm Harsh Badagandi! 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=harsh-badagandi&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-badagandi" /> 
-</p>
+
 
 ---
 
