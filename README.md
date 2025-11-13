@@ -75,16 +75,7 @@
 </p>
 
 
----
 
-🚀 **Current Interests**
-- Distributed Systems & Event-Driven Architectures (Kafka, RabbitMQ, gRPC, Microservices)  
-- Graph Databases & Knowledge Graphs (Neo4j)  
-- NoSQL & NewSQL Databases (MongoDB, Cassandra, Redis)  
-- Scalable Backend Development with Spring Boot  
-- Cloud-Native Development with AWS, Kubernetes  
-
----
 
 📬 **Connect with Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/harsh-badagandi/)  
