@@ -1,6 +1,6 @@
 # Harsh Badagandi
 
-**Computer Engineering Student** | **Backend Developer** | **Research Enthusiast**  
+**Computer Engineering Student** | **Backend Developer** | 
 Vishwakarma Institute of Technology, Pune
 
 ---
