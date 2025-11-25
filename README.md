@@ -5,23 +5,38 @@
 
 # Hi there, I'm Harsh Badagandi! 
 
-
-
 ---
 
-🎓 **Education**:  
+ **Education**:  
 - **Pursuing**: B.Tech in Computer Engineering  
 - **Institution**: Vishwakarma Institute of Technology, Pune  
 
 ---
 
-💻 **Tech Stack**
+ **Research Publications**
+
+- **VisionTool: A Deep Learning Embedded Device for Blind People**  
+  🔗 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u5HHmVD_uO8C)
+
+- **Vision Tools for the Visually Impaired: A Survey on Object Detection**  
+  🔗 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:9yKSN-GCB0IC)
+
+- **ChemiRover – Integrated IoT and ML for Hazardous Area Monitoring**  
+  🔗 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u-x6o8ySG0sC)
+
+- **Real-Time Gas Monitoring and Anomaly Detection in Petroleum Industry Using IoT and Machine Learning**  
+  🔗 [Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:d1gkVwhDpl0C)
+
+---
+
+ **Tech Stack**
 
 ### **Languages**
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
 
@@ -63,7 +78,7 @@
 
 ---
 
-📊 **GitHub Stats**
+ **GitHub Stats**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=harshb2204&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
@@ -74,12 +89,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshb2204&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
 </p>
 
-
-
-
-📬 **Connect with Me**
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-badagandi/)  
-- 📧 [Email](mailto:harshb2204@gmail.com)  
-
 ---
 
+ **Connect with Me**
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-badagandi/)  
+- 📧 [Email](mailto:harshb2204@gmail.com)  
