@@ -23,6 +23,8 @@ Docker • Kubernetes • AWS • Jenkins • GitHub Actions
 
 **Operating Systems**  
 Linux • Windows
+
+---
 ---
 
 ## Research & Publications
