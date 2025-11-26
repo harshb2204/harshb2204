@@ -5,19 +5,7 @@ Vishwakarma Institute of Technology, Pune
 
 ---
 
-## Research & Publications
 
-My research focuses on computer vision applications and IoT-based monitoring systems:
-
-- **VisionTool: A Deep Learning Embedded Device for Blind People** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u5HHmVD_uO8C)
-
-- **Vision Tools for the Visually Impaired: A Survey on Object Detection** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:9yKSN-GCB0IC)
-
-- **ChemiRover – Integrated IoT and ML for Hazardous Area Monitoring** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u-x6o8ySG0sC)
-
-- **Real-Time Gas Monitoring and Anomaly Detection in Petroleum Industry Using IoT and Machine Learning** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:d1gkVwhDpl0C)
-
----
 
 ## Tech
 
@@ -35,6 +23,19 @@ Docker • Kubernetes • AWS • Jenkins • GitHub Actions
 
 **Operating Systems**  
 Linux • Windows
+---
+
+## Research & Publications
+
+
+
+- **VisionTool: A Deep Learning Embedded Device for Blind People** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u5HHmVD_uO8C)
+
+- **Vision Tools for the Visually Impaired: A Survey on Object Detection** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:9yKSN-GCB0IC)
+
+- **ChemiRover – Integrated IoT and ML for Hazardous Area Monitoring** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:u-x6o8ySG0sC)
+
+- **Real-Time Gas Monitoring and Anomaly Detection in Petroleum Industry Using IoT and Machine Learning** — [View Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=2yOctgMAAAAJ&citation_for_view=2yOctgMAAAAJ:d1gkVwhDpl0C)
 
 ---
 
